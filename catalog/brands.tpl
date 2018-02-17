@@ -25,7 +25,7 @@
 {extends file=$layout}
 
 {block name='content'}
-  <section id="main"> texto
+  <section id="main"> texto otro más
 
     {block name='brand_header'}
       <h1>{l s='Brands' d='Shop.Theme.Catalog'}</h1>
